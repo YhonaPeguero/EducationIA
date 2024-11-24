@@ -6,11 +6,11 @@ import { Footer } from './components/Footer'
 
 function App() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-background to-secondary/10">
+    <div>
       <Navigation />
       <HeroSection />
-      <FeaturesGrid />
       <GettingStarted />
+      <FeaturesGrid />
       <Footer />
     </div>
   )
