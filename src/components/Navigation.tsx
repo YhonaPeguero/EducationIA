@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Sparkles, BookOpen, Users, LogIn, Menu, X } from 'lucide-react';
 import { Button } from './ui/Button';
 

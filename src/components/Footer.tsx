@@ -1,5 +1,3 @@
-import React from 'react'
-
 export function Footer() {
   const footerSections = [
     { title: "Platform", items: ["Features", "How it Works", "Pricing", "FAQ"] },

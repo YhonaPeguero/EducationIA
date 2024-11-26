@@ -1,4 +1,3 @@
-import React from 'react';
 import { Button } from './ui/Button';
 import { Rocket, Brain, ChartBar, Compass } from 'lucide-react';
 import { Card, CardContent } from './ui/Card';
